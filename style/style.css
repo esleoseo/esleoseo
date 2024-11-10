@@ -103,6 +103,10 @@ main{
     font-size: 1.2vw;
 }
 
+.works-image-01{
+    width: 30%;
+}
+
 a:link{
     color:black; text-decoration: none;
 }
