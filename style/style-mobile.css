@@ -1,0 +1,142 @@
+/*fonts*/
+
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    transform: rotate(0.1deg);
+}
+
+.cormorant-garamond-regular{
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style: normal;
+    transform: rotate(0.1deg);
+}
+
+.bodoni-moda-bold{
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.1vw;
+    transform: rotate(0.1deg);
+}
+
+.bodoni-moda{
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    transform: rotate(0.1deg);
+}
+
+/*layout*/
+
+.container-index-img{
+    width: 70vw;
+    height: 40vw;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+}
+  
+.container-index-img > img{
+    position: absolute;
+    width: 100%;
+}
+
+.container-about{
+    padding-left: 35vw;
+    padding-right: 35vw;
+    overflow:auto;
+    margin: 0 auto;
+    text-align: left;
+}
+
+main{
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction: row;
+}
+
+#works-menu{
+    width:10%;
+    height:100%;
+    margin-left: 3%;
+    text-align: left;
+}
+
+#works-contents{
+    position: relative;
+    width: 40%;
+    height: 100%;
+    left:17%;
+    text-align: left;
+}
+
+.works{
+    width:100%;
+}
+
+/*design*/
+
+.header{
+    font-size:2vw;
+}
+
+.header-menu{
+    font-size: 1.1vw;
+}
+
+.about{
+    font-size: 0.8vw;
+}
+
+.works-contents{
+    font-size: 1.5vw;
+}
+
+.works-menu{
+    font-size: 1.2vw;
+}
+
+a:link{
+    color:black; text-decoration: none;
+}
+
+a:visited{
+    color:black; text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+
+html{
+    margin:0; padding:0;
+    width:100%; height:97%;
+}
+
+body{
+    margin:0; padding:0;
+    width:100%; height:97%;
+    /*background-color:white;*/
+}
+
+.wrapper{
+    height: auto;
+    min-height: 97%;
+    padding-bottom: 60px;
+}
+
+footer{
+    font-size:0.9vw;
+    height: 60px;
+    position : relative;
+    margin-top:-60px;
+    margin-bottom: -60px;
+}
+
