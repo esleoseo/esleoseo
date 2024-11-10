@@ -1,0 +1,26 @@
+a:link{
+    color:black; text-decoration: none;
+}
+
+a:visited{
+    color:black; text-decoration: none;
+}
+
+.main{
+    text-align: center;
+    /*height: auto;
+    min-height: 100%;
+    padding-bottom: 100px;*/
+}
+
+#wrapper{
+    height: auto;
+    min-height: 100%;
+    padding-bottom: 100px;
+}
+
+footer{
+    height: 100px;
+    position : relative;
+    transform : translateY(-100%);
+}
