@@ -71,9 +71,9 @@ main{
 
 #works-contents{
     position: relative;
-    width: 40%;
+    width: 50%;
     height: 100%;
-    left:17%;
+    left:12%;
     text-align: left;
 }
 
@@ -96,11 +96,15 @@ main{
 }
 
 .works-contents{
-    font-size: 1.5vw;
+    font-size: 2vw;
 }
 
 .works-menu{
     font-size: 1.2vw;
+}
+
+.works-image-01{
+    width: 25%;
 }
 
 a:link{
