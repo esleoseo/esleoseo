@@ -8,6 +8,15 @@
     transform: rotate(0.1deg);
 }
 
+.montserrat-credit{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    color: grey;
+    transform: rotate(0.1deg);
+}
+
 .cormorant-garamond-regular{
     font-family: "Cormorant Garamond", serif;
     font-weight: 400;
