@@ -103,8 +103,13 @@ main{
     font-size: 1.2vw;
 }
 
-.works-image-01{
-    width: 15%;
+.works-img-2024-01{
+    width: 100%;
+    justify-content: space-between;
+}
+
+.works-img-2024-01>a{
+    text-size-adjust: 0.1vw;
 }
 
 a:link{
